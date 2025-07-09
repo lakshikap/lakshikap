@@ -8,4 +8,9 @@ An enthusiastic Data Analyst, driven to generate insights to enable high-value b
 
 :woman_technologist: My projects are available at https://github.com/lakshikap
 
-:link: Reach out to me via LinkedIn: 
+:page_facing_up: I write articles on my work on: https://medium.com/@lakshikapaiva
+
+:link: Reach out to me via LinkedIn: https://www.linkedin.com/in/lakshika-paiva/
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lakshikap)](https://github.com/lakshikap/github-readme-stats)
