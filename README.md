@@ -10,7 +10,7 @@ An enthusiastic Data Analyst, driven to generate insights to enable high-value b
 
 :page_facing_up: I write articles on my work on: https://medium.com/@lakshikapaiva
 
-:link: Reach out to me via lakshikap272@gmail.com
+:link: For projects and collaborative opportunities, reach out to me via lakship272@gmail.com
 
 
 [![Lakshika's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lakshikap&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/lakshikap)
